@@ -1,0 +1,14 @@
+# Ignorar el entorno virtual local
+interprete_env/
+venv/
+.env/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.wav
+temp_audio.wav
+
+# Ignorar archivos de compilación de C#
+bin/
+obj/
+.vs/
