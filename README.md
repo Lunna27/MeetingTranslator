@@ -61,7 +61,7 @@ Reproduce cualquier audio (Teams, Zoom, YouTube) y los subtítulos aparecerán a
 ✒️ Autor
 Este proyecto fue conceptualizado, diseñado y programado por:
 
-Emmanuel Luna - Software Developer - GitHub Profile
+Emmanuel Luna - Software Developer 
 
 📝 Licencia
 Este proyecto es de uso personal y educativo.
